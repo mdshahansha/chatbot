@@ -1,4 +1,5 @@
 import './App.css';
+import '.App.js';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Home from './pages/Home/Home';
 import Navigation from './components/shared/Navigation/Navigation';
